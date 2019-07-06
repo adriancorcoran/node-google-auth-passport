@@ -18,4 +18,4 @@ Minimum frame work to get Node up and running using the Express framework and Go
    ```
 
 1. `cd` to your project folder and run `npm install` to install the packages
-1. Run `nodemon index.js` to start the server
+1. Run `npm run start` to start the server
